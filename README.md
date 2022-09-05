@@ -1,2 +1,2 @@
-# -yhjs-6.2-flexboxbc-profilkort
+# yhjs-6.2-flexboxbc-profilkort
 YH uppgift
